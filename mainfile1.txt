@@ -1,2 +1,3 @@
 Hello editing mainfile1.txt
 Local File Editing to display conflict
+Hello Editing File on Console
